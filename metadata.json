@@ -1,0 +1,6 @@
+{
+  "name": "Product Catalog",
+  "description": "A modern and responsive product listing catalog using Fake Store API, styled with Tailwind CSS and utilizing React Query for state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
