@@ -8,7 +8,7 @@ Product Catalog web app built with **React 19**, **TypeScript**, **Vite**, and *
 
 | Desktop | Mobile |
 |---|---|
-| See [`src/assets/screenshot_desk.pdf`](src/assets/screenshot_desk.pdf) | See [`src/assets/screenshot_mobile.pdf`](src/assets/screenshot_mobile.pdf) |
+| See [`assets/screenshot_desk.pdf`](assets/screenshot_desk.pdf) | See [`assets/screenshot_mobile.pdf`](assets/screenshot_mobile.pdf) |
 
 ---
 
